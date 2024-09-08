@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/b0e4fa95900d14052b910.png" alt="VJ-TXT-LEECH-BOT Logo">
 </p>
 <h1 align="center">
-  VJ TXT LEECH BOT
+  RIZZ TXT LEECH BOT
 </h1>
 
 ## Deploy Tutorial - [Video Link]()
